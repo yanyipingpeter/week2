@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/yanyi/Desktop/新建文件夹 (2)/client/CMakeLists.txt
+  client.cpp
+C:\Users\yanyi\Desktop\新建文件夹 (2)\client\client.cpp(20): warning C4551: 缺少参数列表的函数调用
+  client.vcxproj -> C:\Users\yanyi\Desktop\新建文件夹 (2)\client\Debug\client.exe
