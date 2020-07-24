@@ -1,0 +1,3 @@
+C:/Users/yanyi/Desktop/新建文件夹/server/CMakeFiles/server.dir
+C:/Users/yanyi/Desktop/新建文件夹/server/CMakeFiles/ALL_BUILD.dir
+C:/Users/yanyi/Desktop/新建文件夹/server/CMakeFiles/ZERO_CHECK.dir
